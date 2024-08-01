@@ -1,10 +1,10 @@
 ## Episode Descriptions
-
-**Part 1: Data Loading and Preprocessing**
-In the first episode of our AI-driven data analysis series, we introduce the datasets and demonstrate how to load and preprocess them using Google Gemini and Colab. We cover the initial steps of data analysis, including loading the datasets, renaming columns for consistency, and handling missing values. This episode sets the foundation for the comprehensive data analysis to follow.
+This project contains an exploratory data analysis (EDA) of the OECD PISA dataset using Gemini in Google Colab. This project is featured on YouTube.
 
 **Part 2: Data Visualization and Analysis**
 In the second episode, we dive deeper into data analysis by creating various visualizations to uncover insights and trends. We explore different ways to visualize the data, such as histograms, bar plots, scatter plots, pair plots, and heatmaps. Additionally, we analyze trends, gender disparities, and relationships between economic indicators and test scores. This episode showcases the power of AI in transforming raw data into meaningful visualizations without writing any code.
+**Part 1: Data Loading and Preprocessing**
+In the first episode of our AI-driven data analysis series, we introduce the datasets and demonstrate how to load and preprocess them using Google Gemini and Colab. We cover the initial steps of data analysis, including loading the datasets, renaming columns for consistency, and handling missing values. This episode sets the foundation for the comprehensive data analysis to follow.
 
 ## Files
 
@@ -15,10 +15,10 @@ In the second episode, we dive deeper into data analysis by creating various vis
 # YouTube Gemini Colab OECD PISA Data Analysis
 ## Episode 2:
 [![YouTube Video](Thambnail2.jpg)](https://www.youtube.com/watch?v=kAO6_O-2l7A)
-This project contains an exploratory data analysis (EDA) of the OECD PISA dataset using Gemini in Google Colab. This project is featured on YouTube.
+
 ## Episode 1:
 [![YouTube Video](Thumbnail.png)](https://www.youtube.com/watch?v=XnWkApaKzkc)
-This project contains an exploratory data analysis (EDA) of the OECD PISA dataset using Gemini in Google Colab. This project is featured on YouTube.
+
 ## How to Use
 
 1. Clone the repository.
