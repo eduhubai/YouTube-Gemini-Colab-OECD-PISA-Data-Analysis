@@ -10,7 +10,8 @@ In the second episode, we dive deeper into data analysis by creating various vis
 
 - `OECD_PISA_data.csv`: The dataset.
 - `OECD_PISA_Data_Analysis.ipynb`: The Jupyter notebook containing the EDA (Part 1).
-- `OECD_PISA_Data_Analysis_Part2.ipynb`: The Jupyter notebook containing the continued EDA and visualizations (Part 2).
+- `Episode 1: Data_Analysis_with_Gemini.ipynb`: : The Jupyter notebook containing the continued EDA (Part 1)
+- `Episode 2: Data_Visualisation_with_Gemini.ipynb`: The Jupyter notebook containing the continued EDA and visualizations (Part 2)
 # YouTube Gemini Colab OECD PISA Data Analysis
 https://www.youtube.com/watch?v=kAO6_O-2l7A
 ## Episode 2:
