@@ -1,7 +1,9 @@
 # YouTube Gemini Colab OECD PISA Data Analysis
-
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
 [![YouTube Video](Thumbnail.png)](https://www.youtube.com/watch?v=XnWkApaKzkc)
-
+</div>
+</div>
 This project contains an exploratory data analysis (EDA) of the OECD PISA dataset using Gemini in Google Colab. This project is featured on YouTube.
 
 ## Files
