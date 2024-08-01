@@ -14,9 +14,9 @@ In the second episode, we dive deeper into data analysis by creating various vis
 - `Episode 2: Data_Visualisation_with_Gemini.ipynb`: The Jupyter notebook containing the continued EDA and visualizations (Part 2)
 # YouTube Gemini Colab OECD PISA Data Analysis
 ## Episode 2:
-[![YouTube Video](Thumbnail2.jpg)](https://www.youtube.com/watch?v=kAO6_O-2l7A)
+[![YouTube Video](Thambnail2.jpg)](https://www.youtube.com/watch?v=kAO6_O-2l7A)
 This project contains an exploratory data analysis (EDA) of the OECD PISA dataset using Gemini in Google Colab. This project is featured on YouTube.
-## Episode 2:
+## Episode 1:
 [![YouTube Video](Thumbnail.png)](https://www.youtube.com/watch?v=XnWkApaKzkc)
 This project contains an exploratory data analysis (EDA) of the OECD PISA dataset using Gemini in Google Colab. This project is featured on YouTube.
 ## How to Use
